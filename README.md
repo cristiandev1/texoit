@@ -41,3 +41,11 @@ Siga estes passos para configurar o ambiente de desenvolvimento:
 5. Execute o aplicativo:
     ```bash
     flutter run
+
+
+### ⚡ Futuras Features
+
+1. Separação dos Componentes em Design System
+2. Melhoria em Tratativas de Erro
+3. Melhoria para App Sem Conexão à Internet
+
